@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../Portfolio"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio stuff",
+		"liveServer.settings.port": 5501
+	}
+}
